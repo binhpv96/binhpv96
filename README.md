@@ -19,7 +19,7 @@
 <!-- Personal Links -->
 ### More About Me
 
-- 🤡 Introduce about myself: [https://binhpv96.is-a.dev/](https://binhpv96.is-a.dev/)
+- 🤡 Introduce about myself: [https://binhpv96.is-a.dev/](https://binhpv96.me/)
 
 - 📂 Projects I have participated in: [My repository](https://github.com/binhpv96?tab=repositories)
 
